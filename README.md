@@ -2,9 +2,11 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus;I'm+16+years+old;I+am+from+São+Paulo;I+am+a+student+developer+at+Alura+school+;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<!-- GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Animação">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HawkBug&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="HawkBug github stats" /> 
@@ -60,6 +62,11 @@ I'm a passionate fullstack developer exploring the vast world of coding. Current
 ## 🧶 Let's Collaborate!
 
 Whether it's coding, design, or just a chat, I'm open to collaborations. Feel free to reach out! 🚀
+
+<!-- GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Animação">
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bay+Bay+;it+was+good+seeing+you+:%29)](https://git.io/typing-svg)
 
